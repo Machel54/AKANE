@@ -1,6 +1,6 @@
 body{
   background-image: url("/images/poly.jpg");
-  background-size: 1600px;
+  background-size: 1800px;
   background-repeat: no-repeat;
 }
 input[type=text], select {
@@ -12,4 +12,5 @@ input[type=text], select {
   border-radius: 4px;
   box-sizing: border-box;
 }
+
 
