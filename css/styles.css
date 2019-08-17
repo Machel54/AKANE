@@ -2,7 +2,6 @@ body{
   background-image: url("/images/poly.jpg");
   background-size: 1800px;
   background-repeat: no-repeat;
-  color: blue;
 }
 input[type=text], select {
   width: 100%;
