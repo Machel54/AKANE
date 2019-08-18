@@ -28,8 +28,8 @@ if there are any issues contact me through my email "Machelnyanumba14@gmail.com"
 
 
 ##live site link on github pages
+https://machel54.github.io/AKANE/
 
 ## License
-
 Copyright (c) 2019 **{MIT License}**
 
