@@ -2,6 +2,7 @@ body{
   background-image: url("/images/poly.jpg");
   background-size: 1800px;
   background-repeat: no-repeat;
+  font-family: 'Bubbler One', sans-serif;
 }
 input[type=text], select {
   width: 100%;
@@ -29,6 +30,22 @@ margin: 4px 2px;
 -webkit-transition-duration: 0.4s; 
 transition-duration: 0.4s;
 cursor: pointer;
+}
+h1{
+  font-family: 'Libre Barcode 39 Text', cursive;
+  font-size: 100px;
+}
+p{
+  font-family: 'Bubbler One', sans-serif;
+  font-size: 20px;
+}
+#l{
+  font-family: 'Bubbler One', sans-serif;
+  font-size: 20px;
+}
+a{
+  font-family: 'Bubbler One', sans-serif;
+  font-size: 20px;
 }
 
 
