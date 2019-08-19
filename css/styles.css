@@ -1,5 +1,5 @@
 body{
-  background-image: url(/images/art-wireframe.jpg);
+  background-image: url("/images/art-wireframe.jpg");
   background-size: 1800px;
   background-repeat: no-repeat;
   font-family: 'Bubbler One', sans-serif;
